@@ -16,7 +16,7 @@ public class ActController {
 
     @PostMapping
     public String Despedida() {
-        return "Adíos Mundo";
+        return "Chao Planeta Tierra";
     }
 
 }
